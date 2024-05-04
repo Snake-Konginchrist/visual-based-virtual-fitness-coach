@@ -99,3 +99,8 @@ python main.py
 ## 致谢
 
 感谢所有开源项目和库的作者，他们的工作为本项目的开发提供了巨大帮助。
+
+## 联系方式
+- GitHub: [Snake-Konginchrist](https://github.com/Snake-Konginchrist)
+- Gitee: [Snake-Konginchrist](https://gitee.com/Snake-Konginchrist)
+- Email: developer@skstudio.cn（优先）
