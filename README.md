@@ -103,7 +103,7 @@ python main.py
 ## 联系方式
 - GitHub: [Snake-Konginchrist](https://github.com/Snake-Konginchrist)
 - Gitee: [Snake-Konginchrist](https://gitee.com/Snake-Konginchrist)
-- 邮箱（开发者）: developer@skstudio.cn
-- 邮箱（商务合作）：contact@skstudio.cn
+- 邮箱（开发者）: [developer@skstudio.cn](mailto:developer@skstudio.cn)
+- 邮箱（商务合作）：[contact@skstudio.cn](mailto:contact@skstudio.cn)
 - 官方网站（中国）: [彩旗工作室](https://www.skstudio.cn)
 - 官方网站（国际）: [SK Studio](https://www.sihuangtech.com)
