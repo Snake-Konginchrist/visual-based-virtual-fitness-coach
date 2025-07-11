@@ -107,3 +107,7 @@ python main.py
 - 邮箱（商务合作）：[contact@skstudio.cn](mailto:contact@skstudio.cn)
 - 官方网站（中国）: [彩旗工作室](https://www.skstudio.cn)
 - 官方网站（国际）: [SK Studio](https://www.sihuangtech.com)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Snake-Konginchrist/visual-based-virtual-fitness-coach&type=Date)](https://www.star-history.com/#Snake-Konginchrist/visual-based-virtual-fitness-coach&Date)
