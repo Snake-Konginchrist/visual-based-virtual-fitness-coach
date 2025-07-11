@@ -107,6 +107,7 @@ python main.py
 - 邮箱（商务合作）：[contact@skstudio.cn](mailto:contact@skstudio.cn)
 - 官方网站（中国）: [彩旗工作室](https://www.skstudio.cn)
 - 官方网站（国际）: [SK Studio](https://www.sihuangtech.com)
+- 彩旗开源交流QQ群：1022820973
 
 ## Star History
 
