@@ -1,29 +1,115 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
 env/
 venv/
-*.egg-info/
-dist/
-build/
+ENV/
+env.bak/
+venv.bak/
 
 # IDEs
 .idea/
+*.iml
 .vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
 
 # OS
 .DS_Store
+.AppleDouble
+.LSOverride
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-# Logs
-*.log
+# Machine Learning specific
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.pt
+*.pth
+*.ckpt
 
-# Data/Models (assuming these are large or generated)
-data/models/*.pt
-data/videos/
+# Data files
+data/models/*
+data/videos/*
+data/images/*
+data/datasets/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints 
+# Logs and outputs
+logs/
+outputs/
+runs/
+wandb/
+tensorboard_logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Application specific
+config.local.py
+secrets.py
